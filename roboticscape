@@ -1,7 +1,7 @@
 Package: roboticscape
 Version: 0.5.0
 Depends: librobotcontrol, ${misc:Depends}
-Architecture: all
+Architecture: armhf
 Priority: optional
 Section: oldlibs
 Description: transitional package
