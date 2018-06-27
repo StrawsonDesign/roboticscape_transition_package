@@ -1,3 +1,1 @@
-#!/bin/bash
-
-debuild -us -uc
+equivs-build roboticscape

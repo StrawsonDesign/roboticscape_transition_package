@@ -1,4 +1,0 @@
-roboticscape (0.5.0) stable; urgency=low
-    * transition package, can be safely removed after installation of librobotcontrol
-
- -- James Strawson <james@strawsondesign.com>  Tue, 26 June 2018 02:24:00 +0000
